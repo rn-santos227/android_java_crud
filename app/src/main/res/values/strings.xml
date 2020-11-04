@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DOF Java</string>
+    <string name="btn_new_task">Create New Task</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="lbl_title">Enter Task Title.</string>
+    <string name="lbl_activity">Enter Task Activity.</string>
+    <string name="txt_date">Enter Task Date.</string>
+    <string name="head_id">Task ID: </string>
+    <string name="head_title">Title: </string>
+    <string name="head_date">Date: </string>
+    <string name="head_status">Status: </string>
+    <string name="head_activity">Activity: </string>
+</resources>
